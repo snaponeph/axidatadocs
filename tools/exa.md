@@ -89,4 +89,4 @@ Searches Exa for a query and returns the contents from the search results.
 * View on [Github](https://github.com/phidatahq/phidata/blob/main/phi/tools/exa.py)
 
 [\
-](https://axidata.gitbook.io/axidata/documentation/tools/email)
+](https://VixData.gitbook.io/VixData/documentation/tools/email)

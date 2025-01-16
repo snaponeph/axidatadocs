@@ -73,7 +73,7 @@ Install libraries
 Copy
 
 ```
-pip install openai exa-py AxiData
+pip install openai exa-py VixData
 ```
 
 Run the agent
@@ -254,4 +254,4 @@ python reasoning_agent.py
 Reasoning is an experimental feature and will break \~20% of the time. **It is not a replacement for o1.** It is an experiment that combines COT and tool use. Set your expectations very low for this initial release. For example: It will not be able to count ‘r’s in ‘strawberry’.
 
 [\
-](https://axidata.gitbook.io/axidata/agent-ui)
+](https://VixData.gitbook.io/VixData/agent-ui)

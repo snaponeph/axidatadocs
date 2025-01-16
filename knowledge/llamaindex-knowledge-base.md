@@ -94,4 +94,4 @@ LlamaIndex retriever used for querying the knowledge base.
 Optional callable function to load documents into the knowledge base.
 
 [\
-](https://axidata.gitbook.io/axidata/documentation/knowledge/langchain-knowledge-base)
+](https://VixData.gitbook.io/VixData/documentation/knowledge/langchain-knowledge-base)

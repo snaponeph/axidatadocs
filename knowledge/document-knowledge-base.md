@@ -106,4 +106,4 @@ Was this page helpful?
 YesNo[Suggest edits](https://github.com/phidatahq/phidata-docs/edit/main/knowledge/document.mdx)[Docx](https://docs.phidata.com/knowledge/docx)[JSON](https://docs.phidata.com/knowledge/json)[x](https://x.com/phidatahq)[github](https://github.com/phidatahq/phidata)[discord](https://phidata.link/discord)[youtube](https://phidata.link/youtube)[website](https://phidata.com/)[Powered by Mintlify](https://mintlify.com/preview-request?utm_campaign=poweredBy\&utm_medium=docs\&utm_source=docs.phidata.com)
 
 [\
-](https://axidata.gitbook.io/axidata/documentation/knowledge/docx-knowledge-base)
+](https://VixData.gitbook.io/VixData/documentation/knowledge/docx-knowledge-base)

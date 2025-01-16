@@ -110,4 +110,4 @@ Number of documents to optimize the vector db on.
 The chunking strategy to use.
 
 [\
-](https://axidata.gitbook.io/axidata/documentation/knowledge/csv-url-knowledge-base)
+](https://VixData.gitbook.io/VixData/documentation/knowledge/csv-url-knowledge-base)

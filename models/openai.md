@@ -315,4 +315,4 @@ Whether the Model supports structured outputs.
 Whether to add images to the message content.
 
 [\
-](https://axidata.gitbook.io/axidata/documentation/models/introduction)
+](https://VixData.gitbook.io/VixData/documentation/models/introduction)

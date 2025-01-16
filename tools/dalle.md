@@ -113,4 +113,4 @@ Generates an image based on a text prompt
 * View on [Github](https://github.com/phidatahq/phidata/blob/main/phi/tools/dalle.py)
 
 [\
-](https://axidata.gitbook.io/axidata/documentation/tools/csv)
+](https://VixData.gitbook.io/VixData/documentation/tools/csv)

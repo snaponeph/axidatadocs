@@ -67,4 +67,4 @@ Searches GIPHY for a GIF based on the query string.
 * View on [Github](https://github.com/phidatahq/phidata/blob/main/phi/tools/giphy.py)
 
 [\
-](https://axidata.gitbook.io/axidata/documentation/tools/firecrawl)
+](https://VixData.gitbook.io/VixData/documentation/tools/firecrawl)

@@ -4,9 +4,9 @@ description: Agents are autonomous programs that achieve tasks using language mo
 
 # Introduction
 
-Engineers use AxiData to build agents with memory, knowledge, tools and reasoning.
+Engineers use VixData to build agents with memory, knowledge, tools and reasoning.
 
-![](https://axidata.gitbook.io/~gitbook/image?url=https%3A%2F%2Fmintlify.s3.us-west-1.amazonaws.com%2Fphidata%2Fimages%2Fagent.png\&width=300\&dpr=4\&quality=100\&sign=e22f08cd\&sv=2)
+![](https://VixData.gitbook.io/~gitbook/image?url=https%3A%2F%2Fmintlify.s3.us-west-1.amazonaws.com%2Fphidata%2Fimages%2Fagent.png\&width=300\&dpr=4\&quality=100\&sign=e22f08cd\&sv=2)
 
 #### [​](https://docs.phidata.com/agents/introduction#example-research-agent)Example: Research Agent <a href="#example-research-agent" id="example-research-agent"></a>
 
@@ -54,7 +54,7 @@ Install libraries
 Copy
 
 ```
-pip install AxiData openai duckduckgo-search newspaper4k lxml_html_clean
+pip install VixData openai duckduckgo-search newspaper4k lxml_html_clean
 ```
 
 Run the agent
@@ -213,4 +213,4 @@ List of tools provided to the model.
 Unix timestamp of the response creation.
 
 [\
-](https://axidata.gitbook.io/axidata/documentation/agents)
+](https://VixData.gitbook.io/VixData/documentation/agents)

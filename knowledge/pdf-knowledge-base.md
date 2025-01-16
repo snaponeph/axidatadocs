@@ -107,4 +107,4 @@ Number of documents to optimize the vector db on. For Example: Create an index f
 The chunking strategy to use.
 
 [\
-](https://axidata.gitbook.io/axidata/documentation/knowledge/llamaindex-knowledge-base)
+](https://VixData.gitbook.io/VixData/documentation/knowledge/llamaindex-knowledge-base)

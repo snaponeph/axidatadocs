@@ -158,4 +158,4 @@ Additional parameters for client configuration.
 A pre-configured instance of the Cohere client.
 
 [\
-](https://axidata.gitbook.io/axidata/documentation/models/azure)
+](https://VixData.gitbook.io/VixData/documentation/models/azure)

@@ -296,4 +296,4 @@ python news_report_generator.py
 
 Checkout the recording of the workflow running and see how the results are cached in the 2nd run.
 
-![](https://axidata.gitbook.io/~gitbook/image?url=https%3A%2F%2F571516056-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4tdiSpYPsgpkS5FT1M5V%252Fuploads%252FSKZ3Iq7rNiHyjxdjijsO%252Fimage.png%3Falt%3Dmedia%26token%3Dd05c8533-f70d-4444-932b-16b12fd36eb3\&width=300\&dpr=4\&quality=100\&sign=1c102b7c\&sv=2)
+![](https://VixData.gitbook.io/~gitbook/image?url=https%3A%2F%2F571516056-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4tdiSpYPsgpkS5FT1M5V%252Fuploads%252FSKZ3Iq7rNiHyjxdjijsO%252Fimage.png%3Falt%3Dmedia%26token%3Dd05c8533-f70d-4444-932b-16b12fd36eb3\&width=300\&dpr=4\&quality=100\&sign=1c102b7c\&sv=2)

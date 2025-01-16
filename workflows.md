@@ -191,7 +191,7 @@ Install libraries
 Copy
 
 ```
-pip install AxiData openai duckduckgo-search sqlalchemy
+pip install VixData openai duckduckgo-search sqlalchemy
 ```
 
 Run the workflow
@@ -210,4 +210,4 @@ Copy
 python blog_post_generator.py
 ```
 
-![](https://axidata.gitbook.io/~gitbook/image?url=https%3A%2F%2Fmintlify.s3.us-west-1.amazonaws.com%2Fphidata%2Fimages%2FBlogPostGenerator.gif\&width=300\&dpr=4\&quality=100\&sign=b825bcee\&sv=2)
+![](https://VixData.gitbook.io/~gitbook/image?url=https%3A%2F%2Fmintlify.s3.us-west-1.amazonaws.com%2Fphidata%2Fimages%2FBlogPostGenerator.gif\&width=300\&dpr=4\&quality=100\&sign=b825bcee\&sv=2)

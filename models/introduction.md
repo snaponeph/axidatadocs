@@ -43,4 +43,4 @@ Phidata supports the following model providers:
 * [VertexAI](https://docs.phidata.com/models/vertexai)
 
 [\
-](https://axidata.gitbook.io/axidata/documentation/models)
+](https://VixData.gitbook.io/VixData/documentation/models)

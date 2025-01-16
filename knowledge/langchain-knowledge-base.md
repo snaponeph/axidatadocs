@@ -82,4 +82,4 @@ LangChain vector store used to create a retriever.
 Search kwargs when creating a retriever using the langchain vector store.
 
 [\
-](https://axidata.gitbook.io/axidata/documentation/knowledge/json-knowledge-base)
+](https://VixData.gitbook.io/VixData/documentation/knowledge/json-knowledge-base)

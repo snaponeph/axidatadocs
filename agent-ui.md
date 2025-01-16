@@ -2,11 +2,11 @@
 
 Phidata provides a beautiful Agent UI for interacting with your agents.
 
-![](https://axidata.gitbook.io/~gitbook/image?url=https%3A%2F%2Fmintlify.s3.us-west-1.amazonaws.com%2Fphidata%2Fimages%2Fagent_playground.png\&width=300\&dpr=4\&quality=100\&sign=688604ab\&sv=2)
+![](https://VixData.gitbook.io/~gitbook/image?url=https%3A%2F%2Fmintlify.s3.us-west-1.amazonaws.com%2Fphidata%2Fimages%2Fagent_playground.png\&width=300\&dpr=4\&quality=100\&sign=688604ab\&sv=2)
 
 Agent Playground
 
-No data is sent to AxiData, all agent sessions are stored locally in a sqlite database.
+No data is sent to VixData, all agent sessions are stored locally in a sqlite database.
 
 Let’s take it for a spin, create a file `playground.py`
 
@@ -50,9 +50,9 @@ if __name__ == "__main__":
 
 Make sure the `serve_playground_app()` points to the file that contains your `Playground` app.
 
-[**​**](https://docs.phidata.com/agent-ui#authenticate-with-phidata)**Authenticate with AxiData**
+[**​**](https://docs.phidata.com/agent-ui#authenticate-with-phidata)**Authenticate with VixData**
 
-Authenticate with AxiDataby running the following command:
+Authenticate with VixDataby running the following command:
 
 Copy
 
@@ -60,7 +60,7 @@ Copy
 phi auth
 ```
 
-or by exporting the `PHI_API_KEY` for your workspace from AxiData
+or by exporting the `PHI_API_KEY` for your workspace from VixData
 
 MacWindows
 
@@ -84,11 +84,11 @@ python playground.py
 
 [**​**](https://docs.phidata.com/agent-ui#view-the-playground)**View the playground**
 
-* Open the link provided or navigate to `http://`AxiData`.app/playground` (login required)
+* Open the link provided or navigate to `http://`VixData`.app/playground` (login required)
 * Select the `localhost:7777` endpoint and start chatting with your agents!
 
 #### [​](https://docs.phidata.com/agent-ui#demo-agents)Demo Agents <a href="#demo-agents" id="demo-agents"></a>
 
 The Agent Playground includes a few demo agents that you can test with. If you have recommendations for other agents we should build, please let us know in the [community forum](https://community.phidata.com/).
 
-![](https://axidata.gitbook.io/~gitbook/image?url=https%3A%2F%2Fmintlify.s3.us-west-1.amazonaws.com%2Fphidata%2Fimages%2Fdemo_agents.png\&width=300\&dpr=4\&quality=100\&sign=2325b7a6\&sv=2)
+![](https://VixData.gitbook.io/~gitbook/image?url=https%3A%2F%2Fmintlify.s3.us-west-1.amazonaws.com%2Fphidata%2Fimages%2Fdemo_agents.png\&width=300\&dpr=4\&quality=100\&sign=2325b7a6\&sv=2)

@@ -66,4 +66,4 @@ The name of the repository to star.
 Composio Toolkit provides 1000+ functions to connect to different software tools. Open this [link](https://composio.dev/tools) to view the complete list of functions.
 
 [\
-](https://axidata.gitbook.io/axidata/documentation/tools/cal.com)
+](https://VixData.gitbook.io/VixData/documentation/tools/cal.com)

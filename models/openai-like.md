@@ -38,4 +38,4 @@ agent.print_response("Share a 2 sentence horror story.")
 `OpenAILike` also support all the params of [OpenAIChat](https://docs.phidata.com/models/openai)
 
 [\
-](https://axidata.gitbook.io/axidata/documentation/models/openai)
+](https://VixData.gitbook.io/VixData/documentation/models/openai)

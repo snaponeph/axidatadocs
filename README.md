@@ -6,9 +6,9 @@ description: Introduction
 
 **Build agents and workflows to automate intelligent work.**
 
-#### [​](https://docs.phidata.com/introduction#what-is-phidata)What is AxiData? <a href="#what-is-phidata" id="what-is-phidata"></a>
+#### [​](https://docs.phidata.com/introduction#what-is-phidata)What is VixData? <a href="#what-is-phidata" id="what-is-phidata"></a>
 
-AxiData **is a framework for building multi-modal agents and workflows.**
+VixData **is a framework for building multi-modal agents and workflows.**
 
 * **Build agents with memory, knowledge, tools and reasoning.**
 * **Build teams of agents that can work together to solve problems.**
@@ -16,27 +16,27 @@ AxiData **is a framework for building multi-modal agents and workflows.**
 
 #### [​](https://docs.phidata.com/introduction#key-features)Key Features <a href="#key-features" id="key-features"></a>
 
-* [Simple & Elegant](https://axidata.gitbook.io/axidata#simple-and-elegant)
-* [Powerful & Flexible](https://axidata.gitbook.io/axidata#powerful-and-flexible)
-* [Multi-Modal by default](https://axidata.gitbook.io/axidata#multi-modal-by-default)
-* [Multi-Agent orchestration](https://axidata.gitbook.io/axidata#multi-agent-orchestration)
-* [A beautiful Agent UI to chat with your agents](https://axidata.gitbook.io/axidata/agent-ui)
-* [Agentic RAG built-in](https://axidata.gitbook.io/axidata/examples#agentic-rag)
-* [Structured outputs](https://axidata.gitbook.io/axidata/examples#structured-outputs)
-* [Reasoning built-in](https://axidata.gitbook.io/axidata/examples#reasoning-agent)
-* [Monitoring & Debugging built-in](https://axidata.gitbook.io/axidata/monitoring)
+* [Simple & Elegant](https://VixData.gitbook.io/VixData#simple-and-elegant)
+* [Powerful & Flexible](https://VixData.gitbook.io/VixData#powerful-and-flexible)
+* [Multi-Modal by default](https://VixData.gitbook.io/VixData#multi-modal-by-default)
+* [Multi-Agent orchestration](https://VixData.gitbook.io/VixData#multi-agent-orchestration)
+* [A beautiful Agent UI to chat with your agents](https://VixData.gitbook.io/VixData/agent-ui)
+* [Agentic RAG built-in](https://VixData.gitbook.io/VixData/examples#agentic-rag)
+* [Structured outputs](https://VixData.gitbook.io/VixData/examples#structured-outputs)
+* [Reasoning built-in](https://VixData.gitbook.io/VixData/examples#reasoning-agent)
+* [Monitoring & Debugging built-in](https://VixData.gitbook.io/VixData/monitoring)
 
 #### [​](https://docs.phidata.com/introduction#install)Install <a href="#install" id="install"></a>
 
 Copy
 
 ```
-pip install -U AxiData
+pip install -U VixData
 ```
 
 #### [​](https://docs.phidata.com/introduction#simple-and-elegant)Simple & Elegant <a href="#simple-and-elegant" id="simple-and-elegant"></a>
 
-AxiData Agents are simple and elegant, resulting in minimal, beautiful code.
+VixData Agents are simple and elegant, resulting in minimal, beautiful code.
 
 For example, you can create a web search agent in 10 lines of code.
 
@@ -84,14 +84,14 @@ MacWindows
 Copy
 
 ```
-pip install -U AxiData openai duckduckgo-search
+pip install -U VixData openai duckduckgo-search
 ```
 
 3
 
 Export your OpenAI key
 
-AxiData works with most model providers but for these examples let’s use OpenAI.
+VixData works with most model providers but for these examples let’s use OpenAI.
 
 MacWindows
 

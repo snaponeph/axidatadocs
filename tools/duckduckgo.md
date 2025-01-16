@@ -105,4 +105,4 @@ Use this function to get the latest news from DuckDuckGo.
 * View on [Github](https://github.com/phidatahq/phidata/blob/main/phi/tools/duckduckgo.py)
 
 [\
-](https://axidata.gitbook.io/axidata/documentation/tools/duckdb)
+](https://VixData.gitbook.io/VixData/documentation/tools/duckdb)

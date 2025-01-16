@@ -66,4 +66,4 @@ Retrieves the details of a Hacker News user by their username. Parameters includ
 * View on [Github](https://github.com/phidatahq/phidata/blob/main/phi/tools/hackernews.py)
 
 [\
-](https://axidata.gitbook.io/axidata/documentation/tools/google-search)
+](https://VixData.gitbook.io/VixData/documentation/tools/google-search)
