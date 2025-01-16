@@ -1,0 +1,106 @@
+# ChromaDB Agent Knowledge
+
+#### Setup <a href="#setup" id="setup"></a>
+
+Copy
+
+```
+pip install chromadb
+```
+
+#### [​](https://docs.phidata.com/vectordb/chroma#example)Example <a href="#example" id="example"></a>
+
+agent\_with\_knowledge.py
+
+Copy
+
+```
+import typer
+from rich.prompt import Prompt
+from typing import Optional
+
+from phi.agent import Agent
+from phi.knowledge.pdf import PDFUrlKnowledgeBase
+from phi.vectordb.chroma import ChromaDb
+
+
+knowledge_base = PDFUrlKnowledgeBase(
+    urls=["https://phi-public.s3.amazonaws.com/recipes/ThaiRecipes.pdf"],
+    vector_db=ChromaDb(collection="recipes"),
+)
+
+# Comment out after first run
+knowledge_base.load(recreate=False)
+
+
+def pdf_agent(user: str = "user"):
+    run_id: Optional[str] = None
+
+    agent = Agent(
+        run_id=run_id,
+        user_id=user,
+        knowledge_base=knowledge_base,
+        use_tools=True,
+        show_tool_calls=True,
+        debug_mode=True,
+    )
+    if run_id is None:
+        run_id = agent.run_id
+        print(f"Started Run: {run_id}\n")
+    else:
+        print(f"Continuing Run: {run_id}\n")
+
+    while True:
+        message = Prompt.ask(f"[bold] :sunglasses: {user} [/bold]")
+        if message in ("exit", "bye"):
+            break
+        agent.print_response(message)
+
+
+if __name__ == "__main__":
+    typer.run(pdf_agent)
+```
+
+#### [​](https://docs.phidata.com/vectordb/chroma#chromadb-params)ChromaDb Params <a href="#chromadb-params" id="chromadb-params"></a>
+
+ParameterTypeDefaultDescription
+
+`collection`
+
+`str`
+
+\-
+
+The name of the collection to use.
+
+`embedder`
+
+`Embedder`
+
+OpenAIEmbedder()
+
+The embedder to use for embedding document contents.
+
+`distance`
+
+`Distance`
+
+cosine
+
+The distance metric to use.
+
+`path`
+
+`str`
+
+"tmp/chromadb"
+
+The path where ChromaDB data will be stored.
+
+`persistent_client`
+
+`bool`
+
+False
+
+Whether to use a persistent ChromaDB client.
